@@ -44,5 +44,5 @@ data-warehouse-project/
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
 
-[Instagram](https://www.instagram.com/mr.marxovich/)
+Get in touch - [Instagram](https://www.instagram.com/mr.marxovich/)
 
